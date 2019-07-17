@@ -22,7 +22,7 @@ git clone https://github.com/ESX-Org/esx_shops [esx]/esx_shops
 - Add this in your `server.cfg`:
 
 ```
-start esx_shops
+start esx_shops2
 ```
 
 # Legal
