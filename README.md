@@ -1,17 +1,4 @@
-# esx_shops
-
-## Download & Installation
-
-### Using [fvm](https://github.com/qlaffont/fvm-installer)
-```
-fvm install --save --folder=esx esx-org/esx_shops
-```
-
-### Using Git
-```
-cd resources
-git clone https://github.com/ESX-Org/esx_shops [esx]/esx_shops
-```
+# esx_shops2 -- sushishop
 
 ### Manually
 - Download https://github.com/ESX-Org/esx_shops/archive/master.zip
